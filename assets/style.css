@@ -1,0 +1,173 @@
+#page_cont {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top:30px;
+}
+
+
+#home_cols {
+    display:  flex;
+	flex-direction:  row;
+	width:  100%;
+}
+
+#left_col {
+	display:  flex;
+	flex-direction: column;
+	width:  50%;
+	align-items: center;
+	padding-left: 50px;
+}
+
+.home_paras {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+#right_col {
+	display:  flex;
+	flex-direction: column;
+	width:  50%;
+	align-items: center;
+	padding-right: 50px;
+}
+
+#axis_drop{
+	width: 70%;
+}
+
+#compare_rows {
+	display: flex;
+	flex-direction: column;
+}
+
+#compare_cols {
+    display:  flex;
+	flex-direction:  row;
+}
+
+#comp_col1 {
+	display:  flex;
+	flex-direction: column;
+	width:  50%;
+	align-items: center;
+}
+
+#comp_col2 {
+	display:  flex;
+	flex-direction: column;
+	width:  50%;
+	align-items: center;
+}
+
+#comp_graph {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 85%;
+}
+
+#comp_graph_row {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+#comp_graph_buttons {
+	display: flex;
+	width: 15%;
+	flex-direction: column;
+}
+
+
+#bar2_choice {
+	margin-top: 10px;
+}
+
+#graph3 {
+	align-self: center;
+	height:500px;
+	width:1000px;
+}
+
+#solo_cols {
+    display:  flex;
+	flex-direction:  row;
+	width:  100%;
+}
+
+#col1 {
+	display:  flex;
+	flex-direction: column;
+	width:  40%;
+	align-items: center;
+}
+
+#solodrop_div {
+	align-self: flex-start;
+}
+
+#solodrop2_div {
+	align-self: flex-start;
+	padding-bottom: 15px;
+}
+
+#col2 {
+	display:  flex;
+	flex-direction: column;
+	width:  60%;
+	align-items: center;
+	padding-left: 100px;
+}
+
+#info {
+	font-weight: bold;
+}
+
+#map {
+	width: 700px;
+	height: 450px;
+	margin-left: -150px;
+}
+
+.dropdown {
+	width: 80%;
+}
+
+#name {
+	font-weight: bold;
+	font-size: 20pt;
+}
+
+#pie_choice{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#dropdown1_div {
+	padding-bottom: 9px;
+}
+
+#dropdown1_div2 {
+	padding-bottom: 17px;
+}
+#dropdown2_div {
+	padding-bottom: 17px;
+}
+
+#dropdown2_div2 {
+	padding-bottom: 9px;
+}
+
+#state_solo_drop {
+	padding-bottom: 9px;
+}
+
+#scatter {
+	margin-left: 50px;
+}
+
+#data_dict {
+	width: 100%;
+}
