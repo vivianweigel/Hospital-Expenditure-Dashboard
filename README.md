@@ -1,4 +1,4 @@
-# hospital income and expenditure dashboard
+# Hospital Income and Expenditure Dashboard
 Interactive Dashboard that allows one to easily
 interpret and analyze data from the Centers for Medicare and
 Medicaid services. 
